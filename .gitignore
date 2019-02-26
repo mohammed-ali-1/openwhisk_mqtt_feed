@@ -31,3 +31,9 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Environment variables
+.env
+
+# Environment variables for external deployment of the service provider
+provider/env-external
